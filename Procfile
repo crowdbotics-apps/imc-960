@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT imc_960.wsgi:application
